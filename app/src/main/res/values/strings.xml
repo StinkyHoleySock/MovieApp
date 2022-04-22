@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="movie_app">Movie App</string>
+    <string name="movie_title">Movie title</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi justo turpis, tincidunt et tempor sed, placerat eget nulla. Aenean odio mauris, luctus et libero ac, suscipit imperdiet sem. Nulla ultrices tempor mollis. In hac habitasse platea dictumst. Cras vulputate sit amet mi vel tincidunt. Pellentesque luctus tincidunt dui, eu porttitor purus vulputate in. Nulla quis finibus odio.</string>
+    <string name="image_of_movie">Image of movie</string>
+</resources>
